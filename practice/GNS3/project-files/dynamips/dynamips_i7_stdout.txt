@@ -1,0 +1,7 @@
+Cisco Router Simulation Platform (version 0.2.14-amd64/Linux stable)
+Copyright (c) 2005-2011 Christophe Fillot.
+Build date: Oct  8 2014 11:25:32
+
+Local UUID: de5bb3f6-5a2f-4685-8c8b-a5a00083d9d1
+
+Log file: writing to dynamips_i7_log.txt
